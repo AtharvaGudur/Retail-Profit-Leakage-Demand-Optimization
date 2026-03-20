@@ -4,12 +4,12 @@
 ## 📸 Dashboard Preview
 
 ### 📊 Retail Profit Leakage & Revenue Intelligence Dashboard
-![Revenue Dashboard](assets/Retail%20Profit%20Leakage%20%26%20Revenue%20Intelligence%20Dashboard.png)
+![Revenue Dashboard](Retail%20Profit%20Leakage%20%26%20Revenue%20Intelligence%20Dashboard.png)
 
 ---
 
 ### 🚚 Supply Chain & Operational Efficiency Dashboard
-![Supply Chain Dashboard](assets/Supply%20Chain%20%26%20Operational%20Efficiency%20Dashboard.png)
+![Supply Chain Dashboard](Supply%20Chain%20%26%20Operational%20Efficiency%20Dashboard.png)
 
 An end-to-end  Retail Analytics & Business Intelligence project  designed to identify profit leakage, optimize supply chain operations, and improve demand planning using **Power BI, SQL, and Python**.
 

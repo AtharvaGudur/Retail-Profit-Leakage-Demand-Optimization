@@ -43,26 +43,6 @@ The retail business faced the following critical issues:
 
 This project aims to solve these problems by delivering a **data-driven decision support system**.
 
----
-
-# 📊 Dashboards
-
----
-
-## 📈 Retail Profit Leakage & Revenue Intelligence Dashboard
-
-<p align="center">
-  <img src="assets/revenue_dashboard.png" width="950"/>
-</p>
-
-<p align="center"><i>Comprehensive financial analytics dashboard highlighting revenue trends, profitability, return impact, and promotion efficiency.</i></p>
-
-### 🔍 Description
-
-This dashboard focuses on **financial performance analysis and profit optimization**. It enables stakeholders to understand how revenue translates into profit and where losses are occurring.
-
----
-
 ### 📌 Key KPIs
 
 * **Total Sales** – Total revenue generated across all transactions
@@ -73,6 +53,13 @@ This dashboard focuses on **financial performance analysis and profit optimizati
 * **Gross Margin %** – Profitability efficiency
 
 ---
+### 📊 Retail Profit Leakage & Revenue Intelligence Dashboard
+![Revenue Dashboard](Retail%20Profit%20Leakage%20%26%20Revenue%20Intelligence%20Dashboard.png)
+
+---
+
+### 🚚 Supply Chain & Operational Efficiency Dashboard
+![Supply Chain Dashboard](Supply%20Chain%20%26%20Operational%20Efficiency%20Dashboard.png)
 
 ### 📈 Key Analytical Insights
 
